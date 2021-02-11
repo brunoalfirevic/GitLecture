@@ -10,7 +10,7 @@ namespace FriendList.App
 
             foreach(var friend in friends)
             {
-                Console.WriteLine($"A friend called '{friend.FirstName}'");
+                Console.WriteLine($"A friend called '{friend.Title} {friend.FirstName}'");
             }
         }
     }

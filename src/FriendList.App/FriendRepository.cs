@@ -8,8 +8,8 @@ namespace FriendList.App
         {
             return new List<Friend>
             {
-                new Friend("Jakov", "Sosic"),
-                new Friend("Mensur", "Durakovic")
+                new Friend("Jakov", "Sosic", "Mr."),
+                new Friend("Mensur", "Durakovic", "Mr.")
             };
         }
     }
