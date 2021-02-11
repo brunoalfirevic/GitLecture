@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendList.Utilities", "FriendList.Utilities\FriendList.Utilities.csproj", "{21C2C7ED-E6B3-4C7D-A383-AC63CF86E0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendList.App", "FriendList.App\FriendList.App.csproj", "{579D48DA-3553-44DA-B1F2-C357B2A6D60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C2C7ED-E6B3-4C7D-A383-AC63CF86E0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C2C7ED-E6B3-4C7D-A383-AC63CF86E0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C2C7ED-E6B3-4C7D-A383-AC63CF86E0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C2C7ED-E6B3-4C7D-A383-AC63CF86E0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579D48DA-3553-44DA-B1F2-C357B2A6D60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579D48DA-3553-44DA-B1F2-C357B2A6D60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579D48DA-3553-44DA-B1F2-C357B2A6D60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579D48DA-3553-44DA-B1F2-C357B2A6D60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D30205-77E6-4538-A8E3-B2E8B9A7B8F0}
+	EndGlobalSection
+EndGlobal
