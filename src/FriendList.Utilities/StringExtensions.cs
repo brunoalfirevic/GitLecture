@@ -6,9 +6,7 @@ namespace FriendList.Utilities
     {
         public static string ReplaceAt(this string str, string replacement, int startIndex, int count)
         {
-            return str
-                .Remove(startIndex, count)
-                .Insert(startIndex, replacement);
+            return str.Remove(startIndex, count).Insert(startIndex, replacement);
         }
 
         public static string Reverse(this string str)
